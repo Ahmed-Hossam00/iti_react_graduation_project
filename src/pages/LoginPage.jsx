@@ -111,7 +111,7 @@ export function LoginPage() {
           />
         )}
 
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleSubmit} className="space-y-4 ">
           <Input
             label="Email or Phone Number"
             type="text"
